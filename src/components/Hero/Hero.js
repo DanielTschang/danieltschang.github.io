@@ -10,12 +10,13 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hi, <br/> I'm Jong-Wen Chang <br/>
-          A Software Devloper.
+          Hi, <br/> I'm Daniel Tschang <br/>
+          A Software Enginner.
         </SectionTitle>
         <SectionText>
-          Currently a master student of National Tsing Hua University, Institute of Information Systems Applications, <a href="https://iasl.iis.sinica.edu.tw/index.php"  style={{color:'rgba(255, 255, 255, 0.5)', textDecoration:'underline'}}>Intelligent Agent Systems Lab</a>.
-          <br/>My advisor is <a href="https://scholar.google.com/citations?user=NqkY4tIAAAAJ&hl=zh-TW" style={{color:'rgba(255, 255, 255, 0.5)', textDecoration:'underline'}}>許聞廉 Wen-Lian Hsu</a>
+          Software Engineer with a Bachelor's in Statistics and a Master's in Computer Science. Proficient in C++, Golang, and Python. Currently delving deep into the telecommunications and multimedia industry, always seeking opportunities for continuous learning and challenges.
+
+          Feel free to contact!
         </SectionText>
         <Button onClick={()=> window.location = "https://google.com"}>
           Learn More

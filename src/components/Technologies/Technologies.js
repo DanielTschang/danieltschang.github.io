@@ -33,7 +33,7 @@ const Technologies = () =>  (
             <ListTitle>Back-End</ListTitle>
             <ListParagraph>
               Experience with <br/>
-              Node.js, Python, Golang and Databases
+              C++/C, Golang, Python, Javascript
             </ListParagraph>
           </ListContainer>
         </ListItem>
